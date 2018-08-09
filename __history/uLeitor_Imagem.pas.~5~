@@ -1,0 +1,20 @@
+unit uLeitor_Imagem;
+
+interface
+
+type
+  TLeitorImagem = class
+    private
+
+    protected
+
+    public
+
+    published
+      {$region 'Propriedades'}
+      {$endregion}
+
+  end;
+implementation
+
+end.

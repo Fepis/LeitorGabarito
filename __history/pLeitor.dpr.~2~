@@ -1,0 +1,15 @@
+program pLeitor;
+
+uses
+  Forms,
+  uLeitor in 'uLeitor.pas' {Form1},
+  uLeitor_Imagem in 'uLeitor_Imagem.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

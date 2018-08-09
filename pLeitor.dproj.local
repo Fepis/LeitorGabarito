@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/04/12 16:55:23.000.034,=C:\Users\felipe\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/04/12 17:19:51.000.968,C:\Users\felipe\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\felipe\Desktop\Leitor_Otico\uLeitor.dfm</Transaction>
+    <Transaction>2012/04/12 17:19:51.000.968,C:\Users\felipe\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\felipe\Desktop\Leitor_Otico\uLeitor.pas</Transaction>
+    <Transaction>2012/04/12 17:19:56.000.362,C:\Users\felipe\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\felipe\Desktop\Leitor_Otico\pLeitor.dproj</Transaction>
+    <Transaction>2012/04/13 14:29:24.000.587,=C:\Users\felipe\Desktop\Leitor_Otico\Unit1.pas</Transaction>
+    <Transaction>2012/04/13 14:29:48.000.934,C:\Users\felipe\Desktop\Leitor_Otico\uLeitor_Imagem.pas=C:\Users\felipe\Desktop\Leitor_Otico\Unit1.pas</Transaction>
+    <Transaction>2012/04/13 14:54:27.000.724,C:\Users\felipe\Desktop\Leitor_Otico\uLeitor_Imagem.pas=</Transaction>
+    <Transaction>2012/04/16 13:49:57.000.485,=C:\Users\felipe\Desktop\Leitor_Otico\uLer_Imagem.pas</Transaction>
+    <Transaction>2012/04/16 13:50:18.000.288,=C:\Users\felipe\Desktop\Leitor_Otico\Unit1.pas</Transaction>
+    <Transaction>2012/04/18 11:52:04.000.655,=C:\Users\felipe\Desktop\Leitor_Otico\Unit1.pas</Transaction>
+    <Transaction>2012/04/18 11:53:34.000.795,C:\Users\felipe\Desktop\Leitor_Otico\uInformacao.dfm=C:\Users\felipe\Desktop\Leitor_Otico\Unit1.dfm</Transaction>
+    <Transaction>2012/04/18 11:53:34.000.795,C:\Users\felipe\Desktop\Leitor_Otico\uInformacao.pas=C:\Users\felipe\Desktop\Leitor_Otico\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
